@@ -64,7 +64,6 @@ Performed the final phishing assessment based on all collected evidence.
 - Suspicious Domain Identified
 - Email classified as a High-Risk Phishing Email
 
----
 
 ## 💻 Skills Demonstrated
 
@@ -79,19 +78,14 @@ Performed the final phishing assessment based on all collected evidence.
 - Risk Assessment
 - Security Documentation
 
----
 
 ## 📂 Repository Structure
 
-```
 Malicious-Email-Phishing-Triage-Analysis/
 │
 ├── README.md
 ├── Malicious_Email_(Phishing)_&_Triage_Analysis.pdf
 └── LICENSE
-```
-
----
 
 ## 📄 Project Report
 
@@ -99,7 +93,6 @@ The complete investigation report, methodology, screenshots, analysis, and findi
 
 **Malicious_Email_(Phishing)_&_Triage_Analysis.pdf**
 
----
 
 ## ✅ Conclusion
 
@@ -107,16 +100,10 @@ The investigation identified multiple phishing indicators, including failed emai
 
 Based on the collected evidence, the email was classified as a **High-Risk Phishing Email**, demonstrating the standard workflow followed by a SOC Analyst during phishing email triage and investigation.
 
----
-
 ## 👩‍💻 Author
 
 **Kinjal Varmora**
 
-Integrated MBA (Cyber Security)  
-Gujarat University
-
----
 
 ## ⭐ Disclaimer
 
