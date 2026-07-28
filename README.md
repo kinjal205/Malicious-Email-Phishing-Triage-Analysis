@@ -89,6 +89,7 @@ Malicious-Email-Phishing-Triage-Analysis/
 │
 ├── README.md
 ├── Malicious_Email_(Phishing)_&_Triage_Analysis.pdf
+├── BRADESCO LIVELO.eml
 └── LICENSE
 
 ## 📄 Project Report
