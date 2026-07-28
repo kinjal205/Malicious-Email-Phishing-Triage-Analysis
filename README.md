@@ -6,6 +6,7 @@ This project demonstrates the investigation and analysis of a suspected phishing
 
 The investigation includes email header analysis, SPF/DKIM/DMARC verification, source IP extraction, IP reputation analysis, Indicators of Compromise (IOCs) extraction, and final risk assessment to determine whether the email is malicious.
 
+
 ## 🎯 Objectives
 
 - Analyze a suspicious email.
@@ -15,6 +16,7 @@ The investigation includes email header analysis, SPF/DKIM/DMARC verification, s
 - Analyze the reputation of the source IP.
 - Assess phishing risk based on collected evidence.
 - Document the complete investigation process.
+  
 
 ## 🛠️ Tools Used
 
@@ -27,6 +29,7 @@ The investigation includes email header analysis, SPF/DKIM/DMARC verification, s
 
 
 ## 🔍 Investigation Workflow:
+
 ### Step 1 – Email Collection
 Collected the suspicious email in `.eml` format while preserving the original email headers and metadata.
 
@@ -51,6 +54,7 @@ Collected Indicators of Compromise (IOCs) including:
 
 ### Step 7 – Risk Assessment
 Performed the final phishing assessment based on all collected evidence.
+
 
 ## 🚨 Key Findings
 
@@ -99,6 +103,7 @@ The complete investigation report, methodology, screenshots, analysis, and findi
 The investigation identified multiple phishing indicators, including failed email authentication, suspicious sender infrastructure, malicious network artifacts, and phishing-related indicators.
 
 Based on the collected evidence, the email was classified as a **High-Risk Phishing Email**, demonstrating the standard workflow followed by a SOC Analyst during phishing email triage and investigation.
+
 
 ## 👩‍💻 Author
 
